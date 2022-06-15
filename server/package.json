@@ -1,0 +1,58 @@
+{
+  "name": "easer-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "build": "tsc --outDir src/",
+    "dev": "nodemon --exec ts-node ./dist/index.ts --mode development"
+  },
+  "keywords": [],
+  "author": "Divyansh",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.2",
+    "@types/express-fileupload": "^1.2.2",
+    "aws-sdk": "^2.1099.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.8",
+    "express": "^4.17.3",
+    "express-fileupload": "^1.4.0",
+    "express-validator": "^6.14.0",
+    "fcm-node": "^1.6.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.8",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.7.3",
+    "sendgrid": "^5.2.3",
+    "stripe": "^8.215.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3",
+    "uninstall": "0.0.0",
+    "winston": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "@types/express-validator": "^3.0.0",
+    "@types/jsonwebtoken": "^8.5.8",
+    "@types/lodash": "^4.14.181",
+    "@types/morgan": "^1.9.3",
+    "@types/node": "^17.0.23",
+    "@types/nodemon": "^1.19.1",
+    "@types/sendgrid": "^4.3.0",
+    "@types/stripe": "^8.0.417",
+    "@types/uuid": "^8.3.4",
+    "@types/winston": "^2.4.4",
+    "nodemon": "^2.0.15"
+  }
+}
