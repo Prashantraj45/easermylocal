@@ -1,8 +1,7 @@
 {
     "name": "easer-dashboard",
     "version": "3.0.1",
-    "homepage": "https://easerdash-app.vercel.app",
-  "  version": "1.0.0",
+    "homepage": "https://easermylocal-q9xf16sr7-nightcrawler07.vercel.app",
     "private": true,
     "dependencies": {
         "@emotion/cache": "^11.4.0",
