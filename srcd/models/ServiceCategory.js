@@ -1,0 +1,28 @@
+"use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const mongoose_1 = __importDefault(require("mongoose"));
+const ServiceCategorySchema = new mongoose_1.default.Schema({
+    name: {
+        type: String,
+        unique:true,
+    },
+    image: {
+        type: String,
+    },
+    active: {
+        type: Boolean,
+        default: true,
+    },
+    deleted: {
+        type: Boolean,
+        default: false,
+    },
+}, { timestamps: true, versionKey: false });
+ServiceCategorySchema.pre(/^find/, function (next) {
+    this.find({ active: { $ne: false }, deleted: { $ne: true } });
+    next();
+});
+exports.default = mongoose_1.default.model("ServiceCategory", ServiceCategorySchema);
