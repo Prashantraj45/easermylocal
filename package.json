@@ -7,7 +7,7 @@
     "node": "16.x"
   },
   "scripts": {
-    "start": "node srcd/index.js",
+    "start": "node src/index.js",
     "build": "tsc --outDir src/",
     "dev": "nodemon --exec ts-node ./dist/index.ts --mode development"
   },
