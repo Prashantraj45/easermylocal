@@ -1,0 +1,294 @@
+2022-05-13 11:25:27:2527 info: 
+**********************REQUEST_STARTED*********************
+GET /api/post 200 157.405 ms - 3863
+2022-05-13 11:26:04:264 info: 
+**********************REQUEST_STARTED*********************
+GET /api/post 200 154.069 ms - 2698
+2022-05-13 11:26:40:2640 info: 
+**********************REQUEST_STARTED*********************
+GET /api/post 200 127.920 ms - 3863
+2022-05-13 11:34:29:3429 info: 
+**********************REQUEST_STARTED*********************
+POST /api/post/comment/6273847ac64149cdc9dd2e90 200 168.908 ms - 561
+2022-05-13 11:37:14:3714 info: 
+**********************REQUEST_STARTED*********************
+POST /api/post/comment/6273847ac64149cdc9dd2e90 200 1307.479 ms - 561
+2022-05-13 11:48:50:4850 info: 
+**********************REQUEST_STARTED*********************
+GET /api/post/6273847ac64149cdc9dd2e90 200 164.405 ms - 1111
+2022-05-13 11:50:34:5034 info: 
+**********************REQUEST_STARTED*********************
+GET /api/post/6273847ac64149cdc9dd2e90 200 122.047 ms - 997
+2022-05-13 11:50:41:5041 info: 
+**********************REQUEST_STARTED*********************
+GET /api/post/6273847ac64149cdc9dd2e90 200 107.410 ms - 997
+2022-05-13 11:51:40:5140 info: 
+**********************REQUEST_STARTED*********************
+GET /api/post/6273847ac64149cdc9dd2e90 200 279.535 ms - 997
+2022-05-13 11:52:45:5245 info: 
+**********************REQUEST_STARTED*********************
+GET /api/post/6273847ac64149cdc9dd2e90 200 261.134 ms - 767
+2022-05-13 11:53:47:5347 info: 
+**********************REQUEST_STARTED*********************
+GET /api/post/6273847ac64149cdc9dd2e90 200 116.411 ms - 651
+2022-05-13 11:57:40:5740 info: 
+**********************REQUEST_STARTED*********************
+GET /api/post/6273847ac64149cdc9dd2e90 200 125.712 ms - 651
+2022-05-13 12:08:05:85 info: 
+**********************REQUEST_STARTED*********************
+GET /api/post/6273847ac64149cdc9dd2e90 200 108.954 ms - 651
+2022-05-13 12:18:24:1824 info: 
+**********************REQUEST_STARTED*********************
+POST /api/post/comment/6273847ac64149cdc9dd2e90 400 131.047 ms - 45
+2022-05-13 12:18:55:1855 info: 
+**********************REQUEST_STARTED*********************
+POST /api/post/comment/6273847ac64149cdc9dd2e90 400 116.262 ms - 45
+2022-05-13 12:19:18:1918 info: 
+**********************REQUEST_STARTED*********************
+POST /api/post/comment/6273847ac64149cdc9dd2e90 400 125.535 ms - 45
+2022-05-13 12:21:24:2124 info: 
+**********************REQUEST_STARTED*********************
+POST /api/post/comment/6273847ac64149cdc9dd2e90 200 225.154 ms - 1122
+2022-05-13 12:44:47:4447 info: 
+**********************REQUEST_STARTED*********************
+GET /api/post/6273847ac64149cdc9dd2e90 200 217.476 ms - 877
+2022-05-13 12:45:05:455 info: 
+**********************REQUEST_STARTED*********************
+GET /api/post/6273847ac64149cdc9dd2e90 200 105.003 ms - 651
+2022-05-13 12:49:40:4940 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/6273847ac64149cdc9dd2e90 200 158.229 ms - 653
+2022-05-13 12:50:09:509 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/6273847ac64149cdc9dd2e90 400 100.691 ms - 346
+2022-05-13 12:52:06:526 info: 
+**********************REQUEST_STARTED*********************
+GET /api/post/comment/62736608e6361eb14dc52527 404 1.050 ms - 180
+2022-05-13 12:52:18:5218 info: 
+**********************REQUEST_STARTED*********************
+POST /api/post/comment/62736608e6361eb14dc52527 200 130.591 ms - 661
+2022-05-13 12:55:04:554 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/62736608e6361eb14dc52527 400 79.659 ms - 346
+2022-05-13 12:55:38:5538 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/62736608e6361eb14dc52527 400 48.568 ms - 45
+2022-05-13 12:56:33:5633 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/62736608e6361eb14dc52527 400 70.942 ms - 45
+2022-05-13 13:01:17:117 info: 
+**********************REQUEST_STARTED*********************
+POST /api/post/comment/62736608e6361eb14dc52527 200 1050.153 ms - 661
+2022-05-13 13:05:42:542 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/62736608e6361eb14dc52527 200 136.597 ms - 661
+2022-05-13 15:20:44:2044 info: 
+**********************REQUEST_STARTED*********************
+POST /api/post/comment/6273847ac64149cdc9dd2e90 200 164.586 ms - 57
+2022-05-13 15:24:43:2443 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/627e29f480a93f8ccf240d86 400 140.230 ms - 36
+2022-05-13 15:25:02:252 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/627e29f480a93f8ccf240d86 400 68.286 ms - 36
+2022-05-13 15:27:29:2729 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/627e29f480a93f8ccf240d86 400 142.791 ms - 36
+2022-05-13 15:29:25:2925 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/627e29f480a93f8ccf240d86 400 143.053 ms - 36
+2022-05-13 15:30:00:300 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/627e29f480a93f8ccf240d86 400 124.556 ms - 36
+2022-05-13 15:34:37:3437 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/627e29f480a93f8ccf240d86 - - ms - -
+2022-05-13 15:36:13:3613 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/627e29f480a93f8ccf240d86 400 162.135 ms - 36
+2022-05-13 15:41:47:4147 info: 
+**********************REQUEST_STARTED*********************
+POST /api/post/comment/62727bab94f9b41cc8568ae2 200 148.370 ms - 695
+2022-05-13 15:43:28:4328 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/627e29f480a93f8ccf240d86%0A 400 70.194 ms - 342
+2022-05-13 15:43:31:4331 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/627e29f480a93f8ccf240d86 400 74.903 ms - 36
+2022-05-13 15:43:38:4338 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/post/comment/627e29f480a93f8ccf240d86 200 181.035 ms - 57
+2022-05-13 16:45:01:451 info: 
+**********************REQUEST_STARTED*********************
+POST /api/partner/review 400 124.781 ms - 780
+2022-05-13 16:46:01:461 info: 
+**********************REQUEST_STARTED*********************
+POST /api/partner/review 400 382.581 ms - 780
+2022-05-13 16:49:36:4936 info: 
+**********************REQUEST_STARTED*********************
+POST /api/partner/review 200 1492.726 ms - 28
+2022-05-13 16:52:00:520 info: 
+**********************REQUEST_STARTED*********************
+POST /api/partner 400 103.441 ms - 45
+2022-05-13 16:52:04:524 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 250.343 ms - 14793
+2022-05-13 16:52:22:5222 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 147.608 ms - 1871
+2022-05-13 16:58:18:5818 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 180.162 ms - 1871
+2022-05-13 17:08:26:826 info: 
+**********************REQUEST_STARTED*********************
+POST /api/partner/review 200 208.986 ms - 28
+2022-05-13 17:08:37:837 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 133.094 ms - 2186
+2022-05-13 17:10:07:107 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 221.659 ms - 2028
+2022-05-13 17:11:05:115 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 236.928 ms - 2096
+2022-05-13 17:12:11:1211 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 461.114 ms - 2096
+2022-05-13 17:13:25:1325 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 191.280 ms - 2096
+2022-05-13 17:14:22:1422 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 195.022 ms - 2096
+2022-05-13 17:14:24:1424 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 145.288 ms - 2096
+2022-05-13 17:14:28:1428 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 184.432 ms - 2096
+2022-05-13 17:16:11:1611 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 430.095 ms - 2096
+2022-05-13 17:17:06:176 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 132.594 ms - 2096
+2022-05-13 17:20:04:204 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 163.644 ms - 2096
+2022-05-13 17:20:07:207 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 110.673 ms - 2096
+2022-05-13 17:20:31:2031 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 114.851 ms - 2096
+2022-05-13 17:23:08:238 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 216.120 ms - 2856
+2022-05-13 17:24:11:2411 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 213.663 ms - 2223
+2022-05-13 17:25:34:2534 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 220.654 ms - 2027
+2022-05-13 17:27:56:2756 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review 400 33.254 ms - 48
+2022-05-13 17:30:41:3041 info: 
+**********************REQUEST_STARTED*********************
+POST /api/partner/review 400 35.305 ms - 48
+2022-05-13 17:31:44:3144 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review 400 55.492 ms - 310
+2022-05-13 17:33:00:330 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review 400 70.333 ms - 310
+2022-05-13 17:33:16:3316 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review 400 40.642 ms - 310
+2022-05-13 17:34:24:3424 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review 400 86.025 ms - 310
+2022-05-13 17:35:10:3510 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review 400 69.651 ms - 310
+2022-05-13 17:36:57:3657 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review 400 77.851 ms - 310
+2022-05-13 17:38:26:3826 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review 400 77.530 ms - 310
+2022-05-13 17:40:31:4031 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 137.335 ms - 48
+2022-05-13 17:40:44:4044 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/ 400 42.157 ms - 310
+2022-05-13 17:41:01:411 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 133.074 ms - 48
+2022-05-13 17:41:16:4116 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 84.205 ms - 45
+2022-05-13 17:41:41:4141 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 73.453 ms - 45
+2022-05-13 17:41:42:4142 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 90.715 ms - 45
+2022-05-13 17:42:04:424 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 75.835 ms - 45
+2022-05-13 17:42:34:4234 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 76.621 ms - 45
+2022-05-13 17:43:35:4335 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 101.844 ms - 48
+2022-05-13 17:43:39:4339 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 75.440 ms - 48
+2022-05-13 17:43:55:4355 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 90.637 ms - 48
+2022-05-13 17:44:20:4420 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 111.515 ms - 48
+2022-05-13 17:44:21:4421 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 99.172 ms - 48
+2022-05-13 17:44:27:4427 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 200 170.249 ms - 30
+2022-05-13 17:47:36:4736 info: 
+**********************REQUEST_STARTED*********************
+POST /api/partner/review/add 200 263.132 ms - 28
+2022-05-13 17:47:44:4744 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/626bd8143fc51dd8167663ff 200 142.141 ms - 2027
+2022-05-13 17:58:14:5814 info: 
+**********************REQUEST_STARTED*********************
+POST /api/partner/review/add 200 365.972 ms - 28
+2022-05-13 18:01:14:114 info: 
+**********************REQUEST_STARTED*********************
+POST /api/partner/review/add 200 242.501 ms - 28
+2022-05-13 18:31:37:3137 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 151.920 ms - 49
+2022-05-13 18:32:05:325 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 170.350 ms - 49
+2022-05-13 18:33:03:333 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 685.126 ms - 49
+2022-05-13 18:34:39:3439 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 153.522 ms - 49
+2022-05-13 18:50:50:5050 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 171.971 ms - 97
+2022-05-13 18:51:10:5110 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 129.476 ms - 97
+2022-05-13 18:52:19:5219 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/partner/review/delete 400 137.493 ms - 49

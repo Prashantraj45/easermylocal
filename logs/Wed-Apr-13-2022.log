@@ -1,0 +1,96 @@
+2022-04-13 12:36:37:3637 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 204 3.212 ms - 0
+2022-04-13 12:36:37:3637 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 308.547 ms - 218
+2022-04-13 12:38:03:383 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 204 0.507 ms - 0
+2022-04-13 12:38:03:383 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 234.604 ms - 218
+2022-04-13 16:08:07:87 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 204 2.115 ms - 0
+2022-04-13 16:08:07:87 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 484.919 ms - 218
+2022-04-13 16:10:04:104 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 204 0.775 ms - 0
+2022-04-13 16:10:04:104 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 117.045 ms - 218
+2022-04-13 16:11:39:1139 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 204 0.182 ms - 0
+2022-04-13 16:11:39:1139 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 104.915 ms - 218
+2022-04-13 16:11:40:1140 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 133.250 ms - 218
+2022-04-13 16:15:15:1515 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 204 0.121 ms - 0
+2022-04-13 16:15:15:1515 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 111.302 ms - 218
+2022-04-13 16:19:43:1943 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 204 0.679 ms - 0
+2022-04-13 16:19:43:1943 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 121.399 ms - 218
+2022-04-13 16:19:52:1952 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 204 0.146 ms - 0
+2022-04-13 16:19:52:1952 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 99.735 ms - 218
+2022-04-13 16:21:50:2150 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 204 0.113 ms - 0
+2022-04-13 16:21:50:2150 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 106.894 ms - 218
+2022-04-13 16:21:52:2152 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 99.984 ms - 218
+2022-04-13 16:26:13:2613 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 204 0.127 ms - 0
+2022-04-13 16:26:14:2614 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 101.376 ms - 218
+2022-04-13 16:29:20:2920 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 204 0.130 ms - 0
+2022-04-13 16:29:20:2920 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 100.959 ms - 218
+2022-04-13 16:50:59:5059 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 204 0.994 ms - 0
+2022-04-13 16:50:59:5059 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 120.469 ms - 218
+2022-04-13 16:52:09:529 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 204 0.131 ms - 0
+2022-04-13 16:52:09:529 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 102.465 ms - 218
+2022-04-13 17:40:27:4027 info: 
+**********************REQUEST_STARTED*********************
+GET /api/user/ 400 62.276 ms - 48
+2022-04-13 17:40:38:4038 info: 
+**********************REQUEST_STARTED*********************
+GET /api/user/ 400 3.011 ms - 48
+2022-04-13 17:45:25:4525 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/user/ 204 7.645 ms - 0
+2022-04-13 17:45:26:4526 info: 
+**********************REQUEST_STARTED*********************
+GET /api/user/ 200 487.612 ms - 91

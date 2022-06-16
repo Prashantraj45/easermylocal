@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Easer</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    />
+  </head>
+  <body>
+    <div class="container" style="width: 500px; margin-top: 100px">
+      <h5 class="header">Set new Password for <%= email %></h5>
+      <form id="theform" action="" method="POST" onsubmit="logSubmit">
+        <div class="form-row">
+          <label for="password">New Password</label>
+          <input
+            autocorrect="off"
+            autocomplete="off"
+            autocapitalize="off"
+            type="text"
+            name="password"
+            id="password"
+            required
+            minlength="8"
+          />
+
+          <label for="confirmPassword">Confirm Password</label>
+          <input
+            autocorrect="off"
+            autocomplete="off"
+            autocapitalize="off"
+            type="password"
+            name="confirmPassword"
+            id="confirmPassword"
+            minlength="8"
+          />
+        </div>
+        <input id="submit" class="btn" type="submit" value="submit" />
+        <!-- <button>Reset Password</button> -->
+      </form>
+      <!-- <a class="btn" href="/guitars"><i class="material-icons right">arrow_forward</i>Get started!</a> -->
+    </div>
+    <script>
+      function CheckPassword(inputtxt) {
+        var passw = /^[A-Za-z]\w{7,14}$/;
+        if (inputtxt.match(passw)) {
+          alert("Correct, try another...");
+          return true;
+        } else {
+          alert("Wrong...!");
+          return false;
+        }
+      }
+
+      document.getElementById("theform").onsubmit = function (e) {
+        var password = document.getElementById("password").value;
+        var confirmPassword = document.getElementById("confirmPassword").value;
+        if (!(password === confirmPassword)) {
+          e.preventDefault();
+          alert("Both fields should be same !");
+        }else{
+          var passw = /^(?=.*[0-9])(?=.*[!@#$%^&*])[a-zA-Z0-9!@#$%^&*]{6,16}$/;
+          if (!password.match(passw)) {
+            alert('Password must contain 1 upperCase, 1 lowerCase and 1 symbol !')
+            e.preventDefault()
+          }
+          
+        }
+      };
+    </script>
+  </body>
+</html>

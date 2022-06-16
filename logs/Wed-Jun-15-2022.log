@@ -1,0 +1,93 @@
+2022-06-15 12:42:15:4215 info: 
+**********************REQUEST_STARTED*********************
+GET / 304 22.198 ms - -
+2022-06-15 12:42:30:4230 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/signup 201 1035.536 ms - 211
+2022-06-15 12:43:53:4353 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 525.040 ms - 79
+2022-06-15 12:45:08:458 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/signup 400 117.858 ms - 55
+2022-06-15 12:45:15:4515 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 442.962 ms - 79
+2022-06-15 12:45:23:4523 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 409.073 ms - 206
+2022-06-15 12:45:52:4552 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 400 138.057 ms - 42
+2022-06-15 12:46:07:467 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 400 131.168 ms - 42
+2022-06-15 13:00:06:06 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 400 49.108 ms - 48
+2022-06-15 13:00:16:016 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 328.636 ms - 2488
+2022-06-15 13:03:54:354 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/service/category 200 473.640 ms - 297
+2022-06-15 13:04:24:424 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 400 160.920 ms - 42
+2022-06-15 13:04:49:449 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 400 129.311 ms - 42
+2022-06-15 13:06:02:62 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 400 135.811 ms - 42
+2022-06-15 13:06:39:639 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 200 213.076 ms - 1249
+2022-06-15 13:10:17:1017 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 200 348.972 ms - 1249
+2022-06-15 13:13:04:134 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 178.142 ms - 2477
+2022-06-15 13:13:24:1324 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/service/category 200 292.403 ms - 297
+2022-06-15 13:13:33:1333 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 165.269 ms - 2473
+2022-06-15 13:21:04:214 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/service/category?limit=5&page=1 400 212.842 ms - 30
+2022-06-15 13:21:12:2112 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 200 148.022 ms - 1249
+2022-06-15 13:22:05:225 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 163.695 ms - 2473
+2022-06-15 13:22:10:2210 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/service/category 200 169.619 ms - 300
+2022-06-15 13:22:17:2217 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 152.782 ms - 2476
+2022-06-15 13:22:54:2254 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/service/category 200 146.484 ms - 297
+2022-06-15 13:48:04:484 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 490.654 ms - 2519
+2022-06-15 13:49:39:4939 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 150.619 ms - 1556
+2022-06-15 13:50:06:506 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/service/category 200 330.363 ms - 297
+2022-06-15 13:50:14:5014 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 168.686 ms - 1800
+2022-06-15 14:01:38:138 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 357.236 ms - 1556
+2022-06-15 14:01:52:152 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/service/category 400 371.777 ms - 122

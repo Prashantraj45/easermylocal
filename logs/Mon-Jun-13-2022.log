@@ -1,0 +1,156 @@
+2022-06-13 12:09:10:910 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin?limit=6&page=1 200 3.811 ms - 0
+2022-06-13 12:09:10:910 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin?limit=6&page=1 200 0.483 ms - 0
+2022-06-13 12:09:20:920 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin?limit=6&page=1 - - ms - -
+2022-06-13 12:09:23:923 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin?limit=6&page=1 200 0.288 ms - 0
+2022-06-13 12:09:23:923 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin?limit=6&page=1 200 0.401 ms - 0
+2022-06-13 12:09:24:924 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin?limit=6&page=1 200 414.018 ms - 7210
+2022-06-13 12:09:35:935 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin?limit=6&page=1 200 0.325 ms - 0
+2022-06-13 12:09:35:935 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin?limit=6&page=1 200 0.306 ms - 0
+2022-06-13 12:09:39:939 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin?limit=6&page=1 304 14870.839 ms - -
+2022-06-13 12:09:40:940 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin?limit=6&page=1 304 1032.816 ms - -
+2022-06-13 12:09:42:942 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin?limit=6&page=1 304 2486.818 ms - -
+2022-06-13 12:09:43:943 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/requests?page=1&limit=5 200 0.207 ms - 0
+2022-06-13 12:09:43:943 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/requests 200 0.321 ms - 0
+2022-06-13 12:09:44:944 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin?limit=6&page=1 200 0.202 ms - 0
+2022-06-13 12:09:44:944 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin?limit=6&page=1 200 0.316 ms - 0
+2022-06-13 12:09:47:947 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin?limit=6&page=1 304 4876.744 ms - -
+2022-06-13 12:09:47:947 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/requests 200 4375.910 ms - 79
+2022-06-13 12:09:47:947 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/requests?page=1&limit=5 200 4446.257 ms - 90
+2022-06-13 12:09:48:948 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin?limit=6&page=1 304 509.175 ms - -
+2022-06-13 12:09:49:949 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin?limit=6&page=1 304 982.102 ms - -
+2022-06-13 12:09:56:956 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/624433b2b8a41d34a9f618f9 200 0.261 ms - 0
+2022-06-13 12:09:56:956 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/admin/624433b2b8a41d34a9f618f9 200 211.045 ms - 336
+2022-06-13 12:09:56:956 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin?limit=6&page=1 200 0.806 ms - 0
+2022-06-13 12:09:56:956 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin?limit=6&page=1 200 631.726 ms - 6914
+2022-06-13 12:10:13:1013 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/signup 200 0.260 ms - 0
+2022-06-13 12:10:14:1014 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/signup 201 706.231 ms - 211
+2022-06-13 12:10:14:1014 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin?limit=6&page=1 200 0.268 ms - 0
+2022-06-13 12:10:14:1014 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin?limit=6&page=1 200 0.306 ms - 0
+2022-06-13 12:10:15:1015 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin?limit=6&page=1 200 426.633 ms - 7197
+2022-06-13 12:10:15:1015 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin?limit=6&page=1 304 372.592 ms - -
+2022-06-13 12:11:21:1121 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 200 0.205 ms - 0
+2022-06-13 12:11:21:1121 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 250.565 ms - 206
+2022-06-13 12:11:28:1128 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 200 0.209 ms - 0
+2022-06-13 12:11:29:1129 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 300.183 ms - 206
+2022-06-13 12:12:56:1256 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 200 0.259 ms - 0
+2022-06-13 12:12:56:1256 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 222.984 ms - 206
+2022-06-13 12:14:10:1410 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 200 0.303 ms - 0
+2022-06-13 12:14:10:1410 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 539.703 ms - 206
+2022-06-13 12:17:32:1732 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 200 0.295 ms - 0
+2022-06-13 12:18:07:187 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 200 0.255 ms - 0
+2022-06-13 12:18:27:1827 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 200 0.343 ms - 0
+2022-06-13 12:18:37:1837 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 200 0.284 ms - 0
+2022-06-13 12:19:48:1948 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login - - ms - -
+2022-06-13 12:19:48:1948 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login - - ms - -
+2022-06-13 12:21:10:2110 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 200 0.238 ms - 0
+2022-06-13 12:24:37:2437 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login - - ms - -
+2022-06-13 12:24:37:2437 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login - - ms - -
+2022-06-13 12:24:37:2437 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login - - ms - -
+2022-06-13 12:24:37:2437 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login - - ms - -
+2022-06-13 17:31:03:313 info: 
+**********************REQUEST_STARTED*********************
+GET /api/user - - ms - -
+2022-06-13 17:31:37:3137 info: 
+**********************REQUEST_STARTED*********************
+GET /api/user 400 313.633 ms - 42
+2022-06-13 17:38:32:3832 info: 
+**********************REQUEST_STARTED*********************
+GET /api/user/user/referral?page=1&limit=5 - - ms - -

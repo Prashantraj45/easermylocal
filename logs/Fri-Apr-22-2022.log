@@ -1,0 +1,1560 @@
+2022-04-22 10:42:22:4222 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 1.204 ms - 0
+2022-04-22 10:42:23:4223 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 124.494 ms - 7341
+2022-04-22 10:42:33:4233 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service 200 0.281 ms - 0
+2022-04-22 10:42:33:4233 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/625eeee4f307152c4634a67d 200 0.135 ms - 0
+2022-04-22 10:42:33:4233 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/625eeee4f307152c4634a67d 200 86.802 ms - 715
+2022-04-22 10:42:33:4233 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service 200 117.355 ms - 8294
+2022-04-22 10:44:41:4441 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.192 ms - 0
+2022-04-22 10:44:41:4441 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/625eeee4f307152c4634a67d 200 0.140 ms - 0
+2022-04-22 10:44:41:4441 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/625eeee4f307152c4634a67d 304 69.110 ms - -
+2022-04-22 10:44:41:4441 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 103.469 ms - 2035
+2022-04-22 10:44:50:4450 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/update/625eeee4f307152c4634a67d 200 0.118 ms - 0
+2022-04-22 10:44:50:4450 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/partner/update/625eeee4f307152c4634a67d 200 142.164 ms - 732
+2022-04-22 10:44:50:4450 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.120 ms - 0
+2022-04-22 10:44:50:4450 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 99.298 ms - 7561
+2022-04-22 10:44:54:4454 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.127 ms - 0
+2022-04-22 10:44:54:4454 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/625eeee4f307152c4634a67d 200 0.151 ms - 0
+2022-04-22 10:44:54:4454 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/625eeee4f307152c4634a67d 200 71.197 ms - 715
+2022-04-22 10:44:54:4454 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 96.812 ms - -
+2022-04-22 10:44:57:4457 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.098 ms - 0
+2022-04-22 10:44:57:4457 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 93.214 ms - -
+2022-04-22 10:45:00:450 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.098 ms - 0
+2022-04-22 10:45:00:450 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/625fa69157ec6965f4b3f154 200 0.132 ms - 0
+2022-04-22 10:45:00:450 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/625fa69157ec6965f4b3f154 200 66.911 ms - 729
+2022-04-22 10:45:00:450 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 92.920 ms - -
+2022-04-22 10:46:16:4616 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.161 ms - 0
+2022-04-22 10:46:16:4616 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 110.888 ms - -
+2022-04-22 10:46:17:4617 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 98.685 ms - -
+2022-04-22 10:46:20:4620 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.156 ms - 0
+2022-04-22 10:46:20:4620 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 105.210 ms - -
+2022-04-22 10:46:22:4622 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category/6261c406f8d4f3a3fc58ccec 200 0.140 ms - 0
+2022-04-22 10:46:23:4623 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category/6261c406f8d4f3a3fc58ccec 200 62.392 ms - 271
+2022-04-22 10:46:26:4626 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/subscription 200 0.147 ms - 0
+2022-04-22 10:46:27:4627 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 836.666 ms - 2824
+2022-04-22 10:46:27:4627 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.128 ms - 0
+2022-04-22 10:46:27:4627 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 104.165 ms - -
+2022-04-22 10:46:30:4630 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 95.857 ms - -
+2022-04-22 10:46:33:4633 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.113 ms - 0
+2022-04-22 10:46:33:4633 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/625fa69157ec6965f4b3f154 200 0.140 ms - 0
+2022-04-22 10:46:33:4633 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/625fa69157ec6965f4b3f154 304 59.969 ms - -
+2022-04-22 10:46:33:4633 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 90.151 ms - -
+2022-04-22 10:46:42:4642 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.122 ms - 0
+2022-04-22 10:46:42:4642 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/625fa69157ec6965f4b3f154 200 0.161 ms - 0
+2022-04-22 10:46:42:4642 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/625fa69157ec6965f4b3f154 304 66.858 ms - -
+2022-04-22 10:46:42:4642 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 91.621 ms - -
+2022-04-22 10:46:57:4657 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.099 ms - 0
+2022-04-22 10:46:57:4657 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/625fa69157ec6965f4b3f154 200 0.121 ms - 0
+2022-04-22 10:46:57:4657 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/625fa69157ec6965f4b3f154 304 63.018 ms - -
+2022-04-22 10:46:57:4657 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 92.161 ms - -
+2022-04-22 10:47:02:472 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.098 ms - 0
+2022-04-22 10:47:02:472 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 96.884 ms - -
+2022-04-22 10:47:03:473 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.254 ms - 0
+2022-04-22 10:47:03:473 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 200 99.289 ms - 1287
+2022-04-22 10:47:03:473 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.134 ms - 0
+2022-04-22 10:47:03:473 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 93.168 ms - -
+2022-04-22 10:47:12:4712 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.146 ms - 0
+2022-04-22 10:47:12:4712 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 90.026 ms - -
+2022-04-22 10:49:58:4958 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.342 ms - 0
+2022-04-22 10:49:58:4958 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 110.899 ms - -
+2022-04-22 10:49:58:4958 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.246 ms - 0
+2022-04-22 10:49:58:4958 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 101.716 ms - -
+2022-04-22 10:53:01:531 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.096 ms - 0
+2022-04-22 10:53:01:531 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 91.919 ms - 7553
+2022-04-22 10:53:04:534 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.102 ms - 0
+2022-04-22 10:53:04:534 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/625fa69157ec6965f4b3f154 200 0.180 ms - 0
+2022-04-22 10:53:04:534 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/625fa69157ec6965f4b3f154 304 76.849 ms - -
+2022-04-22 10:53:04:534 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 93.799 ms - -
+2022-04-22 10:53:27:5327 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.122 ms - 0
+2022-04-22 10:53:27:5327 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/625fa69157ec6965f4b3f154 200 0.154 ms - 0
+2022-04-22 10:53:27:5327 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/625fa69157ec6965f4b3f154 304 67.607 ms - -
+2022-04-22 10:53:27:5327 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 99.342 ms - -
+2022-04-22 10:53:36:5336 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.143 ms - 0
+2022-04-22 10:53:36:5336 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/625fa69157ec6965f4b3f154 200 0.125 ms - 0
+2022-04-22 10:53:37:5337 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/625fa69157ec6965f4b3f154 304 74.679 ms - -
+2022-04-22 10:53:37:5337 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 97.630 ms - -
+2022-04-22 10:53:48:5348 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/update/625fa69157ec6965f4b3f154 200 0.100 ms - 0
+2022-04-22 10:53:48:5348 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/partner/update/625fa69157ec6965f4b3f154 200 104.011 ms - 746
+2022-04-22 10:53:48:5348 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.121 ms - 0
+2022-04-22 10:53:48:5348 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 92.801 ms - 7784
+2022-04-22 10:54:08:548 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.091 ms - 0
+2022-04-22 10:54:08:548 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/625fb6feb0ad3c542f7ce35f 200 0.193 ms - 0
+2022-04-22 10:54:08:548 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/625fb6feb0ad3c542f7ce35f 200 64.433 ms - 718
+2022-04-22 10:54:08:548 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 89.402 ms - -
+2022-04-22 10:54:13:5413 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/update/625fb6feb0ad3c542f7ce35f 200 0.080 ms - 0
+2022-04-22 10:54:13:5413 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/partner/update/625fb6feb0ad3c542f7ce35f 200 93.898 ms - 735
+2022-04-22 10:54:13:5413 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.275 ms - 0
+2022-04-22 10:54:13:5413 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 98.247 ms - 8022
+2022-04-22 10:54:19:5419 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.080 ms - 0
+2022-04-22 10:54:19:5419 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/6260f07cb0943edb862817cb 200 0.140 ms - 0
+2022-04-22 10:54:19:5419 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/6260f07cb0943edb862817cb 200 62.730 ms - 742
+2022-04-22 10:54:19:5419 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 91.240 ms - -
+2022-04-22 10:54:41:5441 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/update/6260f07cb0943edb862817cb 200 0.101 ms - 0
+2022-04-22 10:54:41:5441 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/partner/update/6260f07cb0943edb862817cb 200 95.840 ms - 759
+2022-04-22 10:54:41:5441 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.152 ms - 0
+2022-04-22 10:54:41:5441 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 94.326 ms - 8271
+2022-04-22 10:59:06:596 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.109 ms - 0
+2022-04-22 10:59:06:596 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 162.525 ms - -
+2022-04-22 11:06:04:64 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 5.547 ms - 0
+2022-04-22 11:06:04:64 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.497 ms - 0
+2022-04-22 11:06:04:64 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner - - ms - -
+2022-04-22 11:06:04:64 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 - - ms - -
+2022-04-22 11:06:07:67 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.158 ms - 0
+2022-04-22 11:06:07:67 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 96.458 ms - -
+2022-04-22 11:06:56:656 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.116 ms - 0
+2022-04-22 11:06:56:656 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 102.961 ms - 8271
+2022-04-22 11:06:57:657 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 98.684 ms - -
+2022-04-22 11:06:58:658 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 94.655 ms - -
+2022-04-22 11:07:00:70 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 179.601 ms - -
+2022-04-22 11:07:00:70 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.122 ms - 0
+2022-04-22 11:07:00:70 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 90.424 ms - -
+2022-04-22 11:07:01:71 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/subscription 200 0.108 ms - 0
+2022-04-22 11:07:02:72 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 304 792.197 ms - -
+2022-04-22 11:07:03:73 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/ 200 0.094 ms - 0
+2022-04-22 11:07:04:74 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/ 200 95.717 ms - 8271
+2022-04-22 11:08:36:836 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.118 ms - 0
+2022-04-22 11:08:36:836 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 92.370 ms - -
+2022-04-22 11:10:06:106 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.242 ms - 0
+2022-04-22 11:10:06:106 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 113.626 ms - -
+2022-04-22 11:10:07:107 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 97.554 ms - -
+2022-04-22 11:10:08:108 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.113 ms - 0
+2022-04-22 11:10:08:108 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 98.582 ms - -
+2022-04-22 11:10:14:1014 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.114 ms - 0
+2022-04-22 11:10:14:1014 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 91.446 ms - -
+2022-04-22 11:10:15:1015 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 95.285 ms - -
+2022-04-22 11:10:15:1015 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.145 ms - 0
+2022-04-22 11:10:15:1015 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 92.551 ms - -
+2022-04-22 11:10:17:1017 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 90.197 ms - -
+2022-04-22 11:24:52:2452 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 10.952 ms - 0
+2022-04-22 11:24:52:2452 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 253.073 ms - -
+2022-04-22 11:24:55:2455 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.404 ms - 0
+2022-04-22 11:24:55:2455 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 165.869 ms - -
+2022-04-22 11:24:58:2458 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 132.484 ms - -
+2022-04-22 11:25:05:255 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.296 ms - 0
+2022-04-22 11:25:05:255 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 140.549 ms - -
+2022-04-22 11:25:07:257 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/subscription 200 0.368 ms - 0
+2022-04-22 11:25:08:258 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 304 976.225 ms - -
+2022-04-22 11:29:33:2933 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.158 ms - 0
+2022-04-22 11:29:33:2933 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 115.032 ms - -
+2022-04-22 11:31:56:3156 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/admin 200 1.655 ms - 0
+2022-04-22 11:31:56:3156 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/admin 200 102.896 ms - 2654
+2022-04-22 11:32:10:3210 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/admin 200 0.305 ms - 0
+2022-04-22 11:32:10:3210 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/admin 304 68.206 ms - -
+2022-04-22 11:32:37:3237 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/admin 200 0.115 ms - 0
+2022-04-22 11:32:37:3237 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/admin 304 61.664 ms - -
+2022-04-22 11:32:49:3249 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/admin 200 0.133 ms - 0
+2022-04-22 11:32:49:3249 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/admin 304 68.648 ms - -
+2022-04-22 11:33:32:3332 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/admin 200 0.423 ms - 0
+2022-04-22 11:33:32:3332 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/admin 304 69.511 ms - -
+2022-04-22 11:34:14:3414 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/admin 200 0.271 ms - 0
+2022-04-22 11:34:14:3414 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/admin 304 67.443 ms - -
+2022-04-22 11:34:24:3424 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/admin 200 0.160 ms - 0
+2022-04-22 11:34:24:3424 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/admin 304 63.327 ms - -
+2022-04-22 11:34:37:3437 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/admin 200 0.174 ms - 0
+2022-04-22 11:34:38:3438 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/admin 304 64.054 ms - -
+2022-04-22 11:35:13:3513 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/admin 200 0.239 ms - 0
+2022-04-22 11:35:13:3513 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/admin 304 62.520 ms - -
+2022-04-22 11:37:12:3712 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/admin 200 0.179 ms - 0
+2022-04-22 11:37:12:3712 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/admin 200 63.086 ms - 2674
+2022-04-22 11:37:28:3728 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/admin 200 0.171 ms - 0
+2022-04-22 11:37:28:3728 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/admin 200 70.437 ms - 2672
+2022-04-22 11:37:35:3735 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/admin 200 0.310 ms - 0
+2022-04-22 11:37:35:3735 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/admin 304 66.629 ms - -
+2022-04-22 12:51:35:5135 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 14.587 ms - 0
+2022-04-22 12:51:35:5135 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 264.992 ms - 12960
+2022-04-22 12:51:36:5136 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.815 ms - 0
+2022-04-22 12:51:36:5136 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/?limit=5&page=1 200 0.185 ms - 0
+2022-04-22 12:51:36:5136 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 200 106.301 ms - 1287
+2022-04-22 12:51:36:5136 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/?limit=5&page=1 200 121.607 ms - 12960
+2022-04-22 12:51:36:5136 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/625aa1bb42c3c2845afbae7c 200 0.266 ms - 0
+2022-04-22 12:51:36:5136 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/625aa1bb42c3c2845afbae7c 200 117.300 ms - 1282
+2022-04-22 12:51:58:5158 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.722 ms - 0
+2022-04-22 12:51:58:5158 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 116.624 ms - 12961
+2022-04-22 12:52:04:524 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/update/6262559130a8779c25aae7c1 200 0.414 ms - 0
+2022-04-22 12:52:04:524 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/partner/update/6262559130a8779c25aae7c1 400 248.486 ms - 298
+2022-04-22 12:58:27:5827 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 3.852 ms - 0
+2022-04-22 12:58:27:5827 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 183.619 ms - 13840
+2022-04-22 12:58:42:5842 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.464 ms - 0
+2022-04-22 12:58:42:5842 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 118.957 ms - 13841
+2022-04-22 12:58:45:5845 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/approve/6262559130a8779c25aae7c1 200 0.186 ms - 0
+2022-04-22 12:58:45:5845 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/partner/approve/6262559130a8779c25aae7c1 200 135.034 ms - 755
+2022-04-22 12:58:45:5845 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.222 ms - 0
+2022-04-22 12:58:45:5845 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 126.192 ms - 13840
+2022-04-22 12:58:45:5845 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 97.253 ms - -
+2022-04-22 12:59:07:597 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.341 ms - 0
+2022-04-22 12:59:07:597 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 154.120 ms - -
+2022-04-22 12:59:12:5912 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.321 ms - 0
+2022-04-22 12:59:12:5912 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 200 138.643 ms - 3475
+2022-04-22 12:59:28:5928 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.324 ms - 0
+2022-04-22 12:59:29:5929 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 118.976 ms - 13841
+2022-04-22 12:59:35:5935 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.260 ms - 0
+2022-04-22 12:59:35:5935 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 134.981 ms - -
+2022-04-22 12:59:47:5947 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/approve/6262581f8e4d7a6cbd6b3946 200 0.387 ms - 0
+2022-04-22 12:59:47:5947 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/partner/approve/6262581f8e4d7a6cbd6b3946 200 98.819 ms - 723
+2022-04-22 12:59:47:5947 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 2.448 ms - 0
+2022-04-22 12:59:47:5947 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 116.950 ms - 13840
+2022-04-22 13:00:12:012 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.417 ms - 0
+2022-04-22 13:00:12:012 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 114.815 ms - 13841
+2022-04-22 13:00:15:015 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/approve/6262581f8e4d7a6cbd6b3946 200 0.283 ms - 0
+2022-04-22 13:00:15:015 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/partner/approve/6262581f8e4d7a6cbd6b3946 200 90.717 ms - 723
+2022-04-22 13:00:15:015 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 110.862 ms - 13840
+2022-04-22 13:03:52:352 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 2.690 ms - 0
+2022-04-22 13:03:52:352 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/?limit=5&page=1 200 0.385 ms - 0
+2022-04-22 13:03:52:352 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 167.921 ms - -
+2022-04-22 13:03:52:352 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/?limit=5&page=1 200 160.098 ms - 13840
+2022-04-22 13:03:52:352 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/625aa1bb42c3c2845afbae7c 200 0.184 ms - 0
+2022-04-22 13:03:53:353 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/625aa1bb42c3c2845afbae7c 304 111.309 ms - -
+2022-04-22 13:03:56:356 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.298 ms - 0
+2022-04-22 13:03:56:356 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 94.933 ms - -
+2022-04-22 13:04:01:41 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category/6261c406f8d4f3a3fc58ccec 200 0.297 ms - 0
+2022-04-22 13:04:01:41 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category/6261c406f8d4f3a3fc58ccec 304 67.716 ms - -
+2022-04-22 13:04:03:43 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.461 ms - 0
+2022-04-22 13:04:03:43 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 109.463 ms - -
+2022-04-22 13:04:08:48 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.462 ms - 0
+2022-04-22 13:04:08:48 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 71.555 ms - -
+2022-04-22 13:04:12:412 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.476 ms - 0
+2022-04-22 13:04:12:412 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 109.328 ms - -
+2022-04-22 13:04:13:413 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.209 ms - 0
+2022-04-22 13:04:13:413 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 106.329 ms - -
+2022-04-22 13:04:16:416 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 119.072 ms - -
+2022-04-22 13:04:21:421 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.320 ms - 0
+2022-04-22 13:04:21:421 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/6262581f8e4d7a6cbd6b3946 200 0.299 ms - 0
+2022-04-22 13:04:21:421 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/6262581f8e4d7a6cbd6b3946 200 96.696 ms - 705
+2022-04-22 13:04:21:421 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 110.644 ms - -
+2022-04-22 13:04:27:427 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.281 ms - 0
+2022-04-22 13:04:27:427 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 121.031 ms - -
+2022-04-22 13:07:19:719 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 1.265 ms - 0
+2022-04-22 13:07:19:719 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 125.096 ms - -
+2022-04-22 13:07:19:719 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.234 ms - 0
+2022-04-22 13:07:19:719 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 98.722 ms - -
+2022-04-22 13:11:51:1151 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.369 ms - 0
+2022-04-22 13:11:52:1152 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 101.082 ms - -
+2022-04-22 13:11:52:1152 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.283 ms - 0
+2022-04-22 13:11:52:1152 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 109.964 ms - -
+2022-04-22 13:12:01:121 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.372 ms - 0
+2022-04-22 13:12:01:121 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 96.730 ms - -
+2022-04-22 13:12:01:121 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.173 ms - 0
+2022-04-22 13:12:01:121 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 97.378 ms - -
+2022-04-22 13:13:56:1356 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.261 ms - 0
+2022-04-22 13:13:56:1356 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 90.039 ms - -
+2022-04-22 13:13:56:1356 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.220 ms - 0
+2022-04-22 13:13:56:1356 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 108.733 ms - -
+2022-04-22 13:14:13:1413 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.328 ms - 0
+2022-04-22 13:14:13:1413 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 110.623 ms - -
+2022-04-22 13:14:13:1413 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.181 ms - 0
+2022-04-22 13:14:13:1413 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 92.680 ms - -
+2022-04-22 13:14:25:1425 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.409 ms - 0
+2022-04-22 13:14:25:1425 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 99.642 ms - -
+2022-04-22 13:14:25:1425 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.371 ms - 0
+2022-04-22 13:14:25:1425 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 110.136 ms - -
+2022-04-22 13:17:40:1740 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.283 ms - 0
+2022-04-22 13:17:40:1740 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 102.146 ms - -
+2022-04-22 13:17:40:1740 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.333 ms - 0
+2022-04-22 13:17:40:1740 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 104.962 ms - -
+2022-04-22 13:26:00:260 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 1.308 ms - 0
+2022-04-22 13:26:00:260 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 116.032 ms - -
+2022-04-22 13:26:00:260 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.265 ms - 0
+2022-04-22 13:26:00:260 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 97.075 ms - -
+2022-04-22 13:26:40:2640 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.223 ms - 0
+2022-04-22 13:26:40:2640 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 97.992 ms - -
+2022-04-22 13:26:40:2640 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.251 ms - 0
+2022-04-22 13:26:40:2640 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 101.611 ms - -
+2022-04-22 13:27:11:2711 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.229 ms - 0
+2022-04-22 13:27:11:2711 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 200 100.817 ms - 1317
+2022-04-22 13:27:11:2711 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.234 ms - 0
+2022-04-22 13:27:11:2711 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 106.845 ms - 2308
+2022-04-22 13:27:19:2719 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.220 ms - 0
+2022-04-22 13:27:19:2719 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 118.513 ms - -
+2022-04-22 13:27:19:2719 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.288 ms - 0
+2022-04-22 13:27:19:2719 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 122.270 ms - -
+2022-04-22 13:29:39:2939 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 1.147 ms - 0
+2022-04-22 13:29:39:2939 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 200 106.895 ms - 1339
+2022-04-22 13:29:39:2939 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.172 ms - 0
+2022-04-22 13:29:39:2939 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 96.405 ms - 2587
+2022-04-22 13:29:48:2948 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.223 ms - 0
+2022-04-22 13:29:48:2948 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 109.479 ms - -
+2022-04-22 13:29:48:2948 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.252 ms - 0
+2022-04-22 13:29:48:2948 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 101.301 ms - -
+2022-04-22 13:30:30:3030 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.247 ms - 0
+2022-04-22 13:30:30:3030 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 93.513 ms - -
+2022-04-22 13:30:30:3030 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.254 ms - 0
+2022-04-22 13:30:30:3030 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 102.150 ms - -
+2022-04-22 13:30:41:3041 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.276 ms - 0
+2022-04-22 13:30:41:3041 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 95.422 ms - -
+2022-04-22 13:30:41:3041 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.231 ms - 0
+2022-04-22 13:30:42:3042 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 101.393 ms - -
+2022-04-22 13:30:59:3059 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.212 ms - 0
+2022-04-22 13:31:00:310 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 102.411 ms - -
+2022-04-22 13:31:00:310 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.194 ms - 0
+2022-04-22 13:31:00:310 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 95.427 ms - -
+2022-04-22 13:31:13:3113 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.231 ms - 0
+2022-04-22 13:31:13:3113 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 97.795 ms - -
+2022-04-22 13:31:13:3113 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.273 ms - 0
+2022-04-22 13:31:13:3113 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 102.009 ms - -
+2022-04-22 13:31:41:3141 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.207 ms - 0
+2022-04-22 13:31:41:3141 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 93.605 ms - -
+2022-04-22 13:31:41:3141 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.246 ms - 0
+2022-04-22 13:31:41:3141 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 96.314 ms - -
+2022-04-22 13:34:38:3438 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 1.528 ms - 0
+2022-04-22 13:34:38:3438 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 200 118.318 ms - 1311
+2022-04-22 13:34:38:3438 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.273 ms - 0
+2022-04-22 13:34:38:3438 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 102.687 ms - 2559
+2022-04-22 13:36:02:362 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.942 ms - 0
+2022-04-22 13:36:02:362 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 107.813 ms - -
+2022-04-22 13:36:02:362 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.174 ms - 0
+2022-04-22 13:36:02:362 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 96.863 ms - -
+2022-04-22 13:36:37:3637 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.265 ms - 0
+2022-04-22 13:36:37:3637 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 107.087 ms - -
+2022-04-22 13:36:37:3637 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.316 ms - 0
+2022-04-22 13:36:37:3637 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 109.173 ms - -
+2022-04-22 13:37:14:3714 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.277 ms - 0
+2022-04-22 13:37:14:3714 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 112.850 ms - -
+2022-04-22 13:37:14:3714 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.188 ms - 0
+2022-04-22 13:37:14:3714 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 112.846 ms - -
+2022-04-22 13:39:06:396 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.291 ms - 0
+2022-04-22 13:39:06:396 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 106.809 ms - -
+2022-04-22 13:39:06:396 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.202 ms - 0
+2022-04-22 13:39:06:396 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 103.111 ms - -
+2022-04-22 13:39:33:3933 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.244 ms - 0
+2022-04-22 13:39:34:3934 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 97.125 ms - -
+2022-04-22 13:39:34:3934 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.276 ms - 0
+2022-04-22 13:39:34:3934 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 104.497 ms - -
+2022-04-22 13:40:50:4050 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.241 ms - 0
+2022-04-22 13:40:50:4050 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 110.726 ms - -
+2022-04-22 13:40:50:4050 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.182 ms - 0
+2022-04-22 13:40:50:4050 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 87.934 ms - -
+2022-04-22 13:41:17:4117 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.240 ms - 0
+2022-04-22 13:41:17:4117 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 135.255 ms - -
+2022-04-22 13:41:18:4118 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.393 ms - 0
+2022-04-22 13:41:18:4118 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 122.320 ms - -
+2022-04-22 13:42:04:424 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.354 ms - 0
+2022-04-22 13:42:04:424 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 114.651 ms - -
+2022-04-22 13:42:04:424 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.252 ms - 0
+2022-04-22 13:42:04:424 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 105.561 ms - -
+2022-04-22 13:47:28:4728 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.120 ms - 0
+2022-04-22 13:47:28:4728 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 96.379 ms - -
+2022-04-22 13:47:28:4728 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.101 ms - 0
+2022-04-22 13:47:28:4728 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 90.482 ms - -
+2022-04-22 13:47:34:4734 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.268 ms - 0
+2022-04-22 13:47:35:4735 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 97.585 ms - -
+2022-04-22 13:47:35:4735 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.212 ms - 0
+2022-04-22 13:47:35:4735 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 92.084 ms - -
+2022-04-22 13:48:25:4825 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.224 ms - 0
+2022-04-22 13:48:25:4825 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 107.116 ms - -
+2022-04-22 13:48:25:4825 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.099 ms - 0
+2022-04-22 13:48:25:4825 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 88.319 ms - -
+2022-04-22 13:48:48:4848 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.147 ms - 0
+2022-04-22 13:48:48:4848 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 91.892 ms - -
+2022-04-22 13:48:48:4848 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.161 ms - 0
+2022-04-22 13:48:48:4848 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 90.215 ms - -
+2022-04-22 13:49:28:4928 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.181 ms - 0
+2022-04-22 13:49:29:4929 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 91.487 ms - -
+2022-04-22 13:49:29:4929 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.113 ms - 0
+2022-04-22 13:49:29:4929 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 99.162 ms - -
+2022-04-22 13:50:52:5052 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.199 ms - 0
+2022-04-22 13:50:52:5052 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 95.087 ms - -
+2022-04-22 13:50:52:5052 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.120 ms - 0
+2022-04-22 13:50:52:5052 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 94.921 ms - -
+2022-04-22 13:51:11:5111 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.110 ms - 0
+2022-04-22 13:51:12:5112 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 90.776 ms - -
+2022-04-22 13:51:12:5112 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.136 ms - 0
+2022-04-22 13:51:12:5112 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 100.027 ms - -
+2022-04-22 13:51:41:5141 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.181 ms - 0
+2022-04-22 13:51:41:5141 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 99.253 ms - -
+2022-04-22 13:51:41:5141 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.144 ms - 0
+2022-04-22 13:51:42:5142 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 111.093 ms - -
+2022-04-22 13:51:55:5155 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.136 ms - 0
+2022-04-22 13:51:55:5155 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 101.041 ms - -
+2022-04-22 13:51:55:5155 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.105 ms - 0
+2022-04-22 13:51:55:5155 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 101.941 ms - -
+2022-04-22 15:11:52:1152 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 1.262 ms - 0
+2022-04-22 15:11:53:1153 info: 
+**********************REQUEST_STARTED*********************
+POST /api/partner 200 653.234 ms - 558
+2022-04-22 15:11:54:1154 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 109.547 ms - 12235
+2022-04-22 15:14:22:1422 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.201 ms - 0
+2022-04-22 15:14:22:1422 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 200 106.133 ms - 1334
+2022-04-22 15:14:22:1422 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.105 ms - 0
+2022-04-22 15:14:23:1423 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 91.369 ms - 2563
+2022-04-22 15:14:27:1427 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 139.088 ms - -
+2022-04-22 15:14:27:1427 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 94.011 ms - -
+2022-04-22 15:18:28:1828 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.189 ms - 0
+2022-04-22 15:18:28:1828 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 108.216 ms - -
+2022-04-22 15:18:28:1828 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.458 ms - 0
+2022-04-22 15:18:28:1828 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 91.957 ms - -
+2022-04-22 15:18:55:1855 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.236 ms - 0
+2022-04-22 15:18:55:1855 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 98.941 ms - -
+2022-04-22 15:18:55:1855 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.170 ms - 0
+2022-04-22 15:18:56:1856 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 91.748 ms - -
+2022-04-22 15:19:13:1913 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.187 ms - 0
+2022-04-22 15:19:13:1913 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 101.718 ms - -
+2022-04-22 15:19:13:1913 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.201 ms - 0
+2022-04-22 15:19:13:1913 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 116.125 ms - -
+2022-04-22 15:19:16:1916 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 100.468 ms - -
+2022-04-22 15:19:17:1917 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 98.409 ms - -
+2022-04-22 15:29:51:2951 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 1.449 ms - 0
+2022-04-22 15:29:51:2951 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 142.882 ms - -
+2022-04-22 15:29:51:2951 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.244 ms - 0
+2022-04-22 15:29:51:2951 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 117.678 ms - -
+2022-04-22 15:30:59:3059 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.116 ms - 0
+2022-04-22 15:30:59:3059 info: 
+**********************REQUEST_STARTED*********************
+POST /api/partner 200 267.466 ms - 907
+2022-04-22 15:30:59:3059 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 121.481 ms - 13995
+2022-04-22 15:32:53:3253 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.254 ms - 0
+2022-04-22 15:32:53:3253 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 104.379 ms - -
+2022-04-22 15:32:53:3253 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.178 ms - 0
+2022-04-22 15:32:53:3253 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 94.993 ms - -
+2022-04-22 15:36:10:3610 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 5.072 ms - 0
+2022-04-22 15:36:10:3610 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 97.832 ms - -
+2022-04-22 15:36:10:3610 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.135 ms - 0
+2022-04-22 15:36:10:3610 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 99.883 ms - -
+2022-04-22 15:36:43:3643 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.166 ms - 0
+2022-04-22 15:36:43:3643 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 98.227 ms - -
+2022-04-22 15:36:44:3644 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.170 ms - 0
+2022-04-22 15:36:44:3644 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 103.019 ms - -
+2022-04-22 15:38:10:3810 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.127 ms - 0
+2022-04-22 15:38:10:3810 info: 
+**********************REQUEST_STARTED*********************
+POST /api/partner 200 210.775 ms - 1036
+2022-04-22 15:38:10:3810 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 114.013 ms - 15360
+2022-04-22 15:38:23:3823 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.165 ms - 0
+2022-04-22 15:38:23:3823 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 103.137 ms - -
+2022-04-22 15:38:23:3823 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.150 ms - 0
+2022-04-22 15:38:23:3823 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 97.803 ms - -
+2022-04-22 15:38:39:3839 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.145 ms - 0
+2022-04-22 15:38:39:3839 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 112.285 ms - -
+2022-04-22 15:38:39:3839 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.163 ms - 0
+2022-04-22 15:38:40:3840 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 94.025 ms - -
+2022-04-22 15:39:16:3916 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.223 ms - 0
+2022-04-22 15:39:17:3917 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 91.504 ms - -
+2022-04-22 15:39:17:3917 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.130 ms - 0
+2022-04-22 15:39:17:3917 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 105.419 ms - -
+2022-04-22 15:39:26:3926 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.189 ms - 0
+2022-04-22 15:39:26:3926 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 143.923 ms - -
+2022-04-22 15:39:26:3926 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.142 ms - 0
+2022-04-22 15:39:26:3926 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 102.344 ms - -
+2022-04-22 15:39:33:3933 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.168 ms - 0
+2022-04-22 15:39:33:3933 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 96.021 ms - -
+2022-04-22 15:39:33:3933 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.123 ms - 0
+2022-04-22 15:39:33:3933 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 103.052 ms - -
+2022-04-22 15:39:43:3943 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.714 ms - 0
+2022-04-22 15:39:43:3943 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 90.154 ms - -
+2022-04-22 15:39:43:3943 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.132 ms - 0
+2022-04-22 15:39:43:3943 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 93.053 ms - -
+2022-04-22 15:40:24:4024 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.184 ms - 0
+2022-04-22 15:40:24:4024 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 96.495 ms - -
+2022-04-22 15:40:24:4024 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.185 ms - 0
+2022-04-22 15:40:24:4024 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 90.829 ms - -
+2022-04-22 15:42:00:420 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.339 ms - 0
+2022-04-22 15:42:00:420 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 104.678 ms - -
+2022-04-22 15:42:00:420 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.172 ms - 0
+2022-04-22 15:42:00:420 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 100.392 ms - -
+2022-04-22 15:45:47:4547 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/ 200 0.238 ms - 0
+2022-04-22 15:45:47:4547 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/ 200 111.617 ms - 15360
+2022-04-22 15:46:18:4618 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/sendmail 200 0.129 ms - 0
+2022-04-22 15:46:18:4618 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/sendmail - - ms - -
+2022-04-22 15:46:20:4620 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/ 200 0.262 ms - 0
+2022-04-22 15:46:20:4620 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/ 304 108.168 ms - -
+2022-04-22 15:47:01:471 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.139 ms - 0
+2022-04-22 15:47:01:471 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 100.078 ms - -
+2022-04-22 15:47:03:473 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.124 ms - 0
+2022-04-22 15:47:03:473 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 97.595 ms - -
+2022-04-22 15:47:03:473 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.254 ms - 0
+2022-04-22 15:47:04:474 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 86.414 ms - -
+2022-04-22 15:48:05:485 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.157 ms - 0
+2022-04-22 15:48:05:485 info: 
+**********************REQUEST_STARTED*********************
+POST /api/partner 200 177.909 ms - 1044
+2022-04-22 15:48:05:485 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 100.638 ms - 16733
+2022-04-22 15:48:09:489 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 96.441 ms - -
+2022-04-22 15:48:13:4813 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/approve/626280dd0788dc5edc0ae865 200 0.220 ms - 0
+2022-04-22 15:48:13:4813 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/partner/approve/626280dd0788dc5edc0ae865 200 98.028 ms - 1216
+2022-04-22 15:48:13:4813 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 2.455 ms - 0
+2022-04-22 15:48:13:4813 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 102.448 ms - 16732
+2022-04-22 15:48:16:4816 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/ 200 0.211 ms - 0
+2022-04-22 15:48:16:4816 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/ 200 97.028 ms - 16732
+2022-04-22 15:48:47:4847 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner/ 200 0.192 ms - 0
+2022-04-22 15:48:47:4847 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner/ 304 103.407 ms - -
+2022-04-22 15:48:57:4857 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/sendmail 200 0.153 ms - 0
+2022-04-22 15:52:29:5229 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 1.718 ms - 0
+2022-04-22 15:52:29:5229 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 129.013 ms - -
+2022-04-22 15:52:30:5230 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category?limit=5&page=1 200 0.433 ms - 0
+2022-04-22 15:52:30:5230 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category?limit=5&page=1 304 93.715 ms - -
+2022-04-22 15:52:30:5230 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.114 ms - 0
+2022-04-22 15:52:30:5230 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 304 92.728 ms - -
+2022-04-22 15:53:07:537 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.130 ms - 0
+2022-04-22 15:53:07:537 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 200 69.538 ms - 3742
+2022-04-22 15:53:19:5319 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.137 ms - 0
+2022-04-22 15:53:19:5319 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 99.306 ms - -
+2022-04-22 15:53:34:5334 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.194 ms - 0
+2022-04-22 15:53:34:5334 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 115.055 ms - -
+2022-04-22 15:53:42:5342 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.126 ms - 0
+2022-04-22 15:53:42:5342 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 60.383 ms - -
+2022-04-22 15:57:04:574 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.848 ms - 0
+2022-04-22 15:57:04:574 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 67.614 ms - -
+2022-04-22 15:57:04:574 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 70.029 ms - -
+2022-04-22 15:57:16:5716 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.136 ms - 0
+2022-04-22 15:57:16:5716 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 74.612 ms - -
+2022-04-22 15:57:38:5738 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.195 ms - 0
+2022-04-22 15:57:38:5738 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 105.783 ms - -
+2022-04-22 15:57:43:5743 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.121 ms - 0
+2022-04-22 15:57:43:5743 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 86.975 ms - -
+2022-04-22 15:58:00:580 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.151 ms - 0
+2022-04-22 15:58:01:581 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 67.599 ms - -
+2022-04-22 15:58:36:5836 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/login 200 0.398 ms - 0
+2022-04-22 15:58:36:5836 info: 
+**********************REQUEST_STARTED*********************
+POST /api/admin/login 200 269.704 ms - 218
+2022-04-22 16:06:20:620 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 1.224 ms - 0
+2022-04-22 16:06:20:620 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 200 79.648 ms - 3742
+2022-04-22 16:06:54:654 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.150 ms - 0
+2022-04-22 16:06:54:654 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 75.015 ms - -
+2022-04-22 16:07:38:738 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.156 ms - 0
+2022-04-22 16:07:38:738 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 87.711 ms - -
+2022-04-22 16:07:45:745 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.116 ms - 0
+2022-04-22 16:07:45:745 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 117.459 ms - -
+2022-04-22 16:07:49:749 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 90.051 ms - -
+2022-04-22 16:13:03:133 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.646 ms - 0
+2022-04-22 16:13:03:133 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 67.376 ms - -
+2022-04-22 16:13:31:1331 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.283 ms - 0
+2022-04-22 16:13:31:1331 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 152.909 ms - 16732
+2022-04-22 16:13:32:1332 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 126.069 ms - -
+2022-04-22 16:13:33:1333 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin/service/category 200 0.103 ms - 0
+2022-04-22 16:13:33:1333 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin/service/category 200 103.319 ms - 2563
+2022-04-22 16:13:34:1334 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.237 ms - 0
+2022-04-22 16:13:34:1334 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 143.873 ms - -
+2022-04-22 16:13:39:1339 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/admin 200 0.120 ms - 0
+2022-04-22 16:13:39:1339 info: 
+**********************REQUEST_STARTED*********************
+GET /api/admin 304 63.209 ms - -
+2022-04-22 16:13:48:1348 info: 
+**********************REQUEST_STARTED*********************
+OPTIONS /api/partner 200 0.120 ms - 0
+2022-04-22 16:13:48:1348 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 200 112.342 ms - 16732
+2022-04-22 16:13:49:1349 info: 
+**********************REQUEST_STARTED*********************
+GET /api/partner 304 115.617 ms - -

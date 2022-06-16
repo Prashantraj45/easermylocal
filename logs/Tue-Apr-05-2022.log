@@ -1,0 +1,150 @@
+2022-04-05 16:34:50:3450 info: 
+**********************REQUEST_STARTED*********************
+POST //api/subscription/create 404 5.356 ms - 164
+2022-04-05 16:34:54:3454 info: 
+**********************REQUEST_STARTED*********************
+POST /api/subscription/create 400 3.431 ms - 48
+2022-04-05 16:40:21:4021 info: 
+**********************REQUEST_STARTED*********************
+POST /api/subscription/create 400 64.531 ms - 30
+2022-04-05 16:40:33:4033 info: 
+**********************REQUEST_STARTED*********************
+POST /api/subscription/create 400 66.139 ms - 37
+2022-04-05 16:40:49:4049 info: 
+**********************REQUEST_STARTED*********************
+POST /api/subscription/create 400 8.299 ms - 1107
+2022-04-05 16:41:42:4142 info: 
+**********************REQUEST_STARTED*********************
+POST /api/subscription/create 200 727.987 ms - 394
+2022-04-05 16:45:54:4554 info: 
+**********************REQUEST_STARTED*********************
+POST /api/subscription/create 200 659.177 ms - 386
+2022-04-05 16:50:23:5023 info: 
+**********************REQUEST_STARTED*********************
+POST /api/subscription/create 400 79.208 ms - 37
+2022-04-05 16:54:23:5423 info: 
+**********************REQUEST_STARTED*********************
+POST /api/subscription/create 200 1197.159 ms - 903
+2022-04-05 17:05:50:550 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription/create 404 56.154 ms - 162
+2022-04-05 17:05:59:559 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription/ 200 708.138 ms - 832
+2022-04-05 17:08:13:813 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription/ 200 655.579 ms - 832
+2022-04-05 17:34:31:3431 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription/?limit=5 200 544.784 ms - 832
+2022-04-05 17:38:09:389 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription/?limit=5 200 595.273 ms - 133
+2022-04-05 17:38:47:3847 info: 
+**********************REQUEST_STARTED*********************
+POST /api/subscription/create 200 656.914 ms - 945
+2022-04-05 17:38:50:3850 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription/?limit=5 200 247.679 ms - 498
+2022-04-05 17:41:32:4132 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription/get 200 538.478 ms - 498
+2022-04-05 17:44:23:4423 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription/get 200 601.541 ms - 832
+2022-04-05 17:46:24:4624 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/subscription/delete/b2853cd9-aaca-435c-9054-f9cd0614d12e 400 574.146 ms - 1590
+2022-04-05 17:47:12:4712 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/subscription/delete/b2853cd9-aaca-435c-9054-f9cd0614d12e 200 594.733 ms - 441
+2022-04-05 17:47:23:4723 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription/get 200 257.974 ms - 832
+2022-04-05 17:48:12:4812 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription/get 200 738.453 ms - 842
+2022-04-05 17:49:15:4915 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription/get 200 575.160 ms - 842
+2022-04-05 17:49:26:4926 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription/get 200 538.569 ms - 508
+2022-04-05 17:49:59:4959 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/subscription/delete/b809c6b5-d7ba-416f-b2a2-83f7caf25a9c 200 324.514 ms - 441
+2022-04-05 17:50:02:502 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription/get 200 254.893 ms - 143
+2022-04-05 18:03:12:312 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/subscription/delete/b809c6b5-d7ba-416f-b2a2-83f7caf25a9c 404 71.783 ms - 199
+2022-04-05 18:03:20:320 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/subscription/b809c6b5-d7ba-416f-b2a2-83f7caf25a9c 404 39.698 ms - 192
+2022-04-05 18:03:43:343 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/subscription/b809c6b5-d7ba-416f-b2a2-83f7caf25a9c 200 687.354 ms - 441
+2022-04-05 18:03:53:353 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/subscription/b809c6b5-d7ba-416f-b2a2-83f7caf25a9c 200 827.878 ms - 440
+2022-04-05 18:28:48:2848 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 587.754 ms - 508
+2022-04-05 18:29:00:290 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/subscription/b809c6b5-d7ba-416f-b2a2-83f7caf25a9c 200 369.795 ms - 441
+2022-04-05 18:29:02:292 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 253.019 ms - 143
+2022-04-05 18:29:07:297 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/subscription/b809c6b5-d7ba-416f-b2a2-83f7caf25a9c 200 325.302 ms - 440
+2022-04-05 18:29:09:299 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 245.781 ms - 508
+2022-04-05 18:29:36:2936 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/subscription/delete/b809c6b5-d7ba-416f-b2a2-83f7caf25a9c 404 36.189 ms - 202
+2022-04-05 18:29:41:2941 info: 
+**********************REQUEST_STARTED*********************
+DELETE /api/subscription/b809c6b5-d7ba-416f-b2a2-83f7caf25a9c 200 312.205 ms - 441
+2022-04-05 18:29:47:2947 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 236.335 ms - 143
+2022-04-05 18:29:53:2953 info: 
+**********************REQUEST_STARTED*********************
+PUT /api/subscription/b809c6b5-d7ba-416f-b2a2-83f7caf25a9c 200 303.084 ms - 440
+2022-04-05 18:29:55:2955 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 246.840 ms - 508
+2022-04-05 18:32:24:3224 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 408.898 ms - 508
+2022-04-05 18:46:35:4635 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 592.864 ms - 508
+2022-04-05 18:57:16:5716 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 812.393 ms - 2098
+2022-04-05 19:01:22:122 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 806.055 ms - 84
+2022-04-05 19:01:46:146 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 779.489 ms - 2098
+2022-04-05 19:03:16:316 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 789.043 ms - 2098
+2022-04-05 19:04:01:41 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 807.092 ms - 2098
+2022-04-05 19:07:12:712 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 641.363 ms - 2098
+2022-04-05 19:07:42:742 info: 
+**********************REQUEST_STARTED*********************
+GET /api/subscription 200 764.296 ms - 508
+2022-04-05 19:08:03:83 info: 
+**********************REQUEST_STARTED*********************
+GET /api/v1/products 404 2.315 ms - 154
